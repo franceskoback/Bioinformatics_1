@@ -1,0 +1,3 @@
+/Users/fkoback/Library/Mobile Documents/com~apple~CloudDocs/Documents/bioinformatics_course/one/E_coli.txt
+/Users/fkoback/Library/Mobile Documents/com~apple~CloudDocs/Documents/bioinformatics_course/one/untitled.txt
+/Users/fkoback/Library/Mobile Documents/com~apple~CloudDocs/Documents/bioinformatics_course/one/Vibrio_cholerae_genome.txt
